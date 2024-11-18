@@ -19,6 +19,6 @@ Este projeto tem como objetivo controlar o acionamento de uma lâmpada através 
 
 ## Links úteis
 
-- [Referências externas](./links/referencias.txt)
+- [Referências externas](./Links/referencias.txt)
 
 Esses links contêm recursos úteis relacionados ao projeto e à tecnologia usada.
