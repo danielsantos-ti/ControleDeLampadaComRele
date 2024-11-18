@@ -16,3 +16,9 @@ Este projeto tem como objetivo controlar o acionamento de uma lâmpada através 
 - Botão
 - LED
 - Protoboard
+
+## Links úteis
+
+- [Referências externas](./links/referencias.txt)
+
+Esses links contêm recursos úteis relacionados ao projeto e à tecnologia usada.
