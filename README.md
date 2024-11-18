@@ -19,6 +19,8 @@ Este projeto tem como objetivo controlar o acionamento de uma lâmpada através 
 
 ## Links úteis
 
+- [Documentação do Arduino](./links/documentacao.txt)
 - [Referências externas](./Links/referencias.txt)
+- [Tutoriais](./links/tutoriais.txt)
 
 Esses links contêm recursos úteis relacionados ao projeto e à tecnologia usada.
