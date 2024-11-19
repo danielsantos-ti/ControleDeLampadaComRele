@@ -1,3 +1,3 @@
 # Documentação do Arduino
 
-[millis()](https://docs.arduino.cc/language-reference/en/functions/time/millis/)
+[Como funciona a função millis()](https://docs.arduino.cc/language-reference/en/functions/time/millis/)
